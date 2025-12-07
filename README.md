@@ -27,3 +27,7 @@ This project implements a context-aware chatbot using **LangGraph** and **Llama 
 Execute the main script:
 ```bash
 python chatbot.py
+```
+## If you are not able to execute the statements just copy-paste the below code in a notebook.
+
+Assignment_soulpage_task_2.ipynb (Please refer to the notebook itself for the result)
