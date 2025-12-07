@@ -1,4 +1,3 @@
-# Soulpage-genai-assignment-Siddharth_Singh
 # Conversational AI Agent (Task 2)
 
 This project implements a context-aware chatbot using **LangGraph** and **Llama 3.1**. It features persistent memory and intelligent tool usage, utilizing web search only when necessary for current events or external facts.
